@@ -1,0 +1,17 @@
+#PRE-PROCESSING
+Input(s):
+.fits files
+
+Outputs(s):
+.jpg files
+
+
+
+#GAN CONSTRUCTION
+Infrastructure: TensorFlow and Keras
+Input(s):
+.jpg files
+
+Further Developments:
+1. StyleGAN
+2. Use MeerKAT images (see repository)
