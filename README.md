@@ -12,7 +12,7 @@ them to search the survey data to look for objects in the different classes. We 
 
 
 
-# PRE-PROCESSING
+## Pre-processing
 Input(s):
 .fits files
 
@@ -21,11 +21,12 @@ Outputs(s):
 
 
 
-# GAN CONSTRUCTION
+## GAN Construction
 Infrastructure: TensorFlow and Keras
 Input(s):
 .jpg files
 
-## Further Developments:
+### Further Prospects (Will be looked into in semester 2 with BluBear):
 1. StyleGAN
 2. Use MeerKAT images (see repository)
+(Note: BluBear account has been made and jobs are in queue to be uploaded. Awaiting maintenance run end on 14th December)
