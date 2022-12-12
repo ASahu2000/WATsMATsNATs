@@ -1,7 +1,5 @@
 # Project Description (From Canvas)
 
-# Project description
-
 With current astronomical surveys the number of detected sources is already large and with future telescopes the volume of data will become huge, 
 so that Machine Learning techniques will be required to seek out the interesting objects. Machine Learning is a rapidly expanding part of astronomy (and science 
 in general) and this project will equip the student with a number of useful skills. This project will look at different angles of Machine Learning, A key
@@ -23,11 +21,11 @@ Outputs(s):
 
 
 
-#GAN CONSTRUCTION
+# GAN CONSTRUCTION
 Infrastructure: TensorFlow and Keras
 Input(s):
 .jpg files
 
-##Further Developments:
+## Further Developments:
 1. StyleGAN
 2. Use MeerKAT images (see repository)
